@@ -1,0 +1,15 @@
+C:\Users\emily\Desktop\Avaliacao3BimLp3\bin\Debug\net6.0\Avaliacao3BimLp3.exe
+C:\Users\emily\Desktop\Avaliacao3BimLp3\bin\Debug\net6.0\Avaliacao3BimLp3.deps.json
+C:\Users\emily\Desktop\Avaliacao3BimLp3\bin\Debug\net6.0\Avaliacao3BimLp3.runtimeconfig.json
+C:\Users\emily\Desktop\Avaliacao3BimLp3\bin\Debug\net6.0\Avaliacao3BimLp3.dll
+C:\Users\emily\Desktop\Avaliacao3BimLp3\bin\Debug\net6.0\Avaliacao3BimLp3.pdb
+C:\Users\emily\Desktop\Avaliacao3BimLp3\obj\Debug\net6.0\Avaliacao3BimLp3.csproj.AssemblyReference.cache
+C:\Users\emily\Desktop\Avaliacao3BimLp3\obj\Debug\net6.0\Avaliacao3BimLp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emily\Desktop\Avaliacao3BimLp3\obj\Debug\net6.0\Avaliacao3BimLp3.AssemblyInfoInputs.cache
+C:\Users\emily\Desktop\Avaliacao3BimLp3\obj\Debug\net6.0\Avaliacao3BimLp3.AssemblyInfo.cs
+C:\Users\emily\Desktop\Avaliacao3BimLp3\obj\Debug\net6.0\Avaliacao3BimLp3.csproj.CoreCompileInputs.cache
+C:\Users\emily\Desktop\Avaliacao3BimLp3\obj\Debug\net6.0\Avaliacao3BimLp3.dll
+C:\Users\emily\Desktop\Avaliacao3BimLp3\obj\Debug\net6.0\refint\Avaliacao3BimLp3.dll
+C:\Users\emily\Desktop\Avaliacao3BimLp3\obj\Debug\net6.0\Avaliacao3BimLp3.pdb
+C:\Users\emily\Desktop\Avaliacao3BimLp3\obj\Debug\net6.0\Avaliacao3BimLp3.genruntimeconfig.cache
+C:\Users\emily\Desktop\Avaliacao3BimLp3\obj\Debug\net6.0\ref\Avaliacao3BimLp3.dll
